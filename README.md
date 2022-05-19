@@ -5,8 +5,7 @@
 
 <table border="0">
  <tr>
-    <td>
-     
+    <td> 
      <br>
      <strong>HELLO WORLD!</strong>
      
