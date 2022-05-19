@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<div>
+<p float="left">
 
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
 
@@ -24,7 +24,7 @@
 
 <p align="left"> - 📫 Reach out at **samuelmajuk@gmail.com** <p/>
   
-</div>
+</p>
 
 <br>
 
