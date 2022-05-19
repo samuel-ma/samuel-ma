@@ -3,11 +3,11 @@
 
 <br>
 <br>
-<img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif" >
+
 <!-- <img align="right" width="400" src="" > -->
 
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **My Portfolio** <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif" >
 
 - 🌱 Currently learning the **React Framework**
 
