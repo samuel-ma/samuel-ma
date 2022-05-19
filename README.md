@@ -6,8 +6,6 @@
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif" >
 <!-- <img align="right" width="400" src="" > -->
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
 
 - 🔭 I’m currently working on **My Portfolio**
 
@@ -24,6 +22,10 @@
 - 💬 Ask me about **[anything Javascript]()**
 
 - 📫 Reach out at **samuelmajuk@gmail.com**
+
+<br>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/samuel-ma/github-widgetbox)
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
