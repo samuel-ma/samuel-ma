@@ -8,13 +8,13 @@
     <td>
      <strong>HELLO WORLD!</strong>
      
-      - 🔭 I’m currently working on **My Portfolio**
+     - 🔭 I’m currently working on **My Portfolio**
 
-      - 🌱 Currently learning the **React Framework**
+     - 🌱 Currently learning the **React Framework**
 
-      - 👯 I’m looking to collaborate on **anything Javascript**
+     - 👯 I’m looking to collaborate on **anything Javascript**
 
-      - 🤝 I’m looking for help with resources on **Javascript**
+     - 🤝 I’m looking for help with resources on **Javascript**
 
      - 👨‍💻 All of my projects are available on my [Repositories](https://samuel-ma.github.io/Porfolio/)
 
@@ -22,7 +22,7 @@
 
      - 💬 Ask me about **[anything Javascript](https://samuel-ma.github.io/Porfolio/)**
 
-      - 📫 Reach out at **samuelmajuk@gmail.com**
+     - 📫 Reach out at **samuelmajuk@gmail.com**
    </td>
   
    <td>
