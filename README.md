@@ -9,6 +9,8 @@ Create a table to make two columns
 <table border="0">
  <tr>
     <td>
+     <strong>HELLO WORLD!</strong>
+     
       - 🔭 I’m currently working on **My Portfolio**
 
       - 🌱 Currently learning the **React Framework**
@@ -27,6 +29,7 @@ Create a table to make two columns
    </td>
   
    <td>
+    <strong>POPULAR AVATAR</strong>
       <img align="top" alt="gif" width="400" height="200" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
    </td>
  </tr>
