@@ -29,7 +29,7 @@ Create a table to make two columns
    </td>
   
    <td>
-      <img align="vertical" alt="gif" width="400" height="200" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
+      <img align="center" alt="gif" width="400" height="200" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
    </td>
  </tr>
   
