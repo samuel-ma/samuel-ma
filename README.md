@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **anything Javascript**
 
-- 🤝 I’m looking for help with resources with on **Javascript Frameworks**
+- 🤝 I’m looking for help with resources with on **Javascript**
 
 - 👨‍💻 All of my projects are available at [Porfolio](porfolio)
 
