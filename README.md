@@ -24,7 +24,7 @@
 - 📫 Reach out at **samuelmajuk@gmail.com**
 
 <br>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/samuel-ma/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 <br>
 
 <h3 align="left">Connect with me:</h3>
