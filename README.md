@@ -16,11 +16,11 @@
 
      - 🤝 I’m looking for help with resources on **Javascript**
 
-     - 👨‍💻 All of my projects are available on my [Repositories](https://samuel-ma.github.io/Porfolio/)
+     - 👨‍💻 All of my projects are available on my [Repositories](https://samuel-ma.github.io/Porfolio)
 
-     - 📝 I regularly write articles on [My Blog](https://samuel-ma.github.io/Porfolio/)
+     - 📝 I regularly write articles on [My Blog](https://samuel-ma.github.io/Porfolio)
 
-     - 💬 Ask me about **[anything Javascript](https://samuel-ma.github.io/Porfolio/)**
+     - 💬 Ask me about **[anything Javascript](https://samuel-ma.github.io/Porfolio)**
 
      - 📫 Reach out at **samuelmajuk@gmail.com**
    </td>
