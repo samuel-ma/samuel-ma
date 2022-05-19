@@ -3,8 +3,7 @@
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif" >
 <!-- <img align="right" width="400" src="" > -->
 
-
-- 🔭 I’m currently working on **My Porfolio**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Frameworks like React**
 
@@ -23,7 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samuel_majuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuel_majuk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samuel-majok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-majok/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samuel-majok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-majok" height="30" width="40" /></a>
+<a href="https://instagram.com/samuel_majuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuel_majuk" height="30" width="40" /></a>
 <a href="https://www.behance.net/mabilmakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mabilmakur" height="30" width="40" /></a>
 </p>
 
@@ -35,7 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-ma&show_icons=true&locale=en" alt="samuel-ma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-ma&" alt="samuel-ma" /></p>
-
-
-![](./profile-3d-contrib/profile-night-view.svg)
-
