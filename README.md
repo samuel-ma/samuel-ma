@@ -4,6 +4,8 @@
 <br>
 <br>
 
+<div>
+
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
 
 <p align="left"> - 🔭 I’m currently working on **My Portfolio**<p/>
@@ -21,6 +23,8 @@
 <p align="left"> - 💬 Ask me about **[anything Javascript]()**<p/>
 
 <p align="left"> - 📫 Reach out at **samuelmajuk@gmail.com** <p/>
+  
+</div>
 
 <br>
 
