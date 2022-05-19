@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Frameworks like React**
+- 🌱 Currently learning **Framework @React**
 
 - 👯 I’m looking to collaborate on **anything Javascript**
 
-- 🤝 I’m looking for help with **Javascript Frameworks**
+- 🤝 I’m looking for help with resources with on **Javascript Frameworks**
 
-- 👨‍💻 All of my projects are available at [porfolio](porfolio)
+- 👨‍💻 All of my projects are available at [Porfolio](porfolio)
 
-- 📝 I regularly write articles on (my blog)
+- 📝 I regularly write articles on [My Blog]
 
 - 💬 Ask me about **anything Javascript**
 
