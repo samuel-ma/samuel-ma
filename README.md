@@ -15,9 +15,9 @@
 
 - 📝 I regularly write articles on [My Blog](Blog)
 
-- 💬 Ask me about **anything Javascript**
+- 💬 Ask me about **[anything Javascript](javascript.com)**
 
-- 📫 Reach me at **samuelmajuk@gmail.com**
+- 📫 Reach out at **samuelmajuk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
