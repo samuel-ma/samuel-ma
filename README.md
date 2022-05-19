@@ -26,7 +26,7 @@
    </td>
   
    <td>
-      <img align="center" alt="gif" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
+      <img width="500" align="center" alt="gif" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
    </td>
  </tr>
   
