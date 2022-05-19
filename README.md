@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Majok</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif" >
-<img align="right" alt="Coding" width="400" src="" >
+<img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif" >
+<img align="right" width="400" src="" >
 
 
 - 🔭 I’m currently working on **Javascript Basics**
