@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [porfolio](porfolio)
 
-- 📝 I regularly write articles on [my blog](my blog)
+- 📝 I regularly write articles on (my blog)
 
 - 💬 Ask me about **anything Javascript**
 
-- 📫 Reach me **samuelmajuk@gmail.com**
+- 📫 Reach me at **samuelmajuk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
