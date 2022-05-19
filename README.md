@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Samuel Majok</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<br>
-<br>
+
 
 <!-- <img align="right" width="400" src="" > -->
 
 
-- 🔭 I’m currently working on **My Portfolio** 
+- 🔭 I’m currently working on **My Portfolio**  <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif"
 
 - 🌱 Currently learning the **React Framework**
 
@@ -21,7 +20,7 @@
 
 - 💬 Ask me about **[anything Javascript]()**
 
-- 📫 Reach out at **samuelmajuk@gmail.com** <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif" >
+- 📫 Reach out at **samuelmajuk@gmail.com** >
 
 <br>
 
