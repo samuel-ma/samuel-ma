@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **anything Javascript**
 
-- 🤝 I’m looking for help with resources with on **Javascript**
+- 🤝 I’m looking for help with resources on **Javascript**
 
 - 👨‍💻 All of my projects are available on my [Repositories](Projects)
 
