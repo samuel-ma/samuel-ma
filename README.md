@@ -2,9 +2,6 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <br>
-<br>
-
-Create a table to make two columns
 
 <table border="0">
  <tr>
