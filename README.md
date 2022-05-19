@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with resources with on **Javascript**
 
-- 👨‍💻 All of my projects are available on my [Porfolio](Repositories)
+- 👨‍💻 All of my projects are available on my [Repositories](Projects)
 
-- 📝 I regularly write articles on [My Blog]
+- 📝 I regularly write articles on [My Blog](Blog)
 
 - 💬 Ask me about **anything Javascript**
 
