@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Majok</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif" >
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e09f3a1b-0416-4717-834e-956882e0d77f/d9wl8vp-fd401a49-6f72-4703-b852-c4c16e509b7b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UwOWYzYTFiLTA0MTYtNDcxNy04MzRlLTk1Njg4MmUwZDc3ZlwvZDl3bDh2cC1mZDQwMWE0OS02ZjcyLTQ3MDMtYjg1Mi1jNGMxNmU1MDliN2IuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Kc1d29la7R8xWdFeB80tH1XEGTA2dJl7elJAx0FVI2w" >
+<img align="right" alt="Coding" width="400" src="" >
 
 
 - 🔭 I’m currently working on **Javascript Basics**
