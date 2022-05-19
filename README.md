@@ -1,27 +1,26 @@
 <h1 align="center">Hi 👋, I'm Samuel Majok</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<br>
+<br>
 
+<img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
 
+<p align="left"> - 🔭 I’m currently working on **My Portfolio**<p/>
 
-<!-- <img align="right" width="400" src="" > -->
+<p align="left"> - 🌱 Currently learning the **React Framework**<p/>
 
+<p align="left"> - 👯 I’m looking to collaborate on **anything Javascript**<p/>
 
-- 🔭 I’m currently working on **My Portfolio** <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
+- 🤝 I’m looking for help with resources on **Javascript**<p align="left"> <p/>
 
-- 🌱 Currently learning the **React Framework**
+<p align="left"> - 👨‍💻 All of my projects are available on my [Repositories](Projects)<p/>
 
-- 👯 I’m looking to collaborate on **anything Javascript**
+<p align="left"> - 📝 I regularly write articles on [My Blog]()<p/>
 
-- 🤝 I’m looking for help with resources on **Javascript**
+<p align="left"> - 💬 Ask me about **[anything Javascript]()**<p/>
 
-- 👨‍💻 All of my projects are available on my [Repositories](Projects)
-
-- 📝 I regularly write articles on [My Blog]()
-
-- 💬 Ask me about **[anything Javascript]()**
-
-- 📫 Reach out at **samuelmajuk@gmail.com** 
+<p align="left"> - 📫 Reach out at **samuelmajuk@gmail.com** <p/>
 
 <br>
 
