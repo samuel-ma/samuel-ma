@@ -4,7 +4,7 @@
 <!-- <img align="right" width="400" src="" > -->
 
 
-- 🔭 I’m currently working on **Javascript Basics**
+- 🔭 I’m currently working on **My Porfolio**
 
 - 🌱 I’m currently learning **Frameworks like React**
 
