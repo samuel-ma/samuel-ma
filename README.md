@@ -4,50 +4,36 @@
 <br>
 <br>
 
+Create a table to make two columns
 
-<!-- You can place each image side-by-side by writing the markdown for each image on the same line. -->
+<table border="0">
+ <tr>
+    <td>
+      <p align="left"> - 🔭 I’m currently working on **My Portfolio**<p/>
 
-![alt-text-1](<p float="left">
+      <p align="left"> - 🌱 Currently learning the **React Framework**<p/>
 
-<p align="left"> - 🔭 I’m currently working on **My Portfolio**<p/>
+      <p align="left"> - 👯 I’m looking to collaborate on **anything Javascript**<p/>
 
-<p align="left"> - 🌱 Currently learning the **React Framework**<p/>
+      <p align="left">- 🤝 I’m looking for help with resources on **Javascript** <p/>
 
-<p align="left"> - 👯 I’m looking to collaborate on **anything Javascript**<p/>
+      <p align="left"> - 👨‍💻 All of my projects are available on my [Repositories](Projects)<p/>
 
-- 🤝 I’m looking for help with resources on **Javascript**<p align="left"> <p/>
+      <p align="left"> - 📝 I regularly write articles on [My Blog]()<p/>
 
-<p align="left"> - 👨‍💻 All of my projects are available on my [Repositories](Projects)<p/>
+      <p align="left"> - 💬 Ask me about **[anything Javascript]()**<p/>
 
-<p align="left"> - 📝 I regularly write articles on [My Blog]()<p/>
-
-<p align="left"> - 💬 Ask me about **[anything Javascript]()**<p/>
-
-<p align="left"> - 📫 Reach out at **samuelmajuk@gmail.com** <p/>
+      <p align="left"> - 📫 Reach out at **samuelmajuk@gmail.com** <p/>
+   </td>
+ </tr>
   
-</p>) ![alt-text-2](<img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">)
-
-<p float="left">
-
-<img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
-
-<p align="left"> - 🔭 I’m currently working on **My Portfolio**<p/>
-
-<p align="left"> - 🌱 Currently learning the **React Framework**<p/>
-
-<p align="left"> - 👯 I’m looking to collaborate on **anything Javascript**<p/>
-
-- 🤝 I’m looking for help with resources on **Javascript**<p align="left"> <p/>
-
-<p align="left"> - 👨‍💻 All of my projects are available on my [Repositories](Projects)<p/>
-
-<p align="left"> - 📝 I regularly write articles on [My Blog]()<p/>
-
-<p align="left"> - 💬 Ask me about **[anything Javascript]()**<p/>
-
-<p align="left"> - 📫 Reach out at **samuelmajuk@gmail.com** <p/>
+ <tr>
+    <td>
+      <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
+   </td>
+ </tr>
   
-</p>
+</table>
 
 <br>
 
