@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available on my [Repositories](Projects)
 
-- 📝 I regularly write articles on [My Blog](Blog)
+- 📝 I regularly write articles on [My Blog]()
 
-- 💬 Ask me about **[anything Javascript](javascript.com)**
+- 💬 Ask me about **[anything Javascript]()**
 
 - 📫 Reach out at **samuelmajuk@gmail.com**
 
