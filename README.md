@@ -16,11 +16,11 @@
 
       - 🤝 I’m looking for help with resources on **Javascript**
 
-      - 👨‍💻 All of my projects are available on my [Repositories](Projects)
+     - 👨‍💻 All of my projects are available on my <a href="_blank">Repositories</a>
 
-      - 📝 I regularly write articles on [My Blog]()
+     - 📝 I regularly write articles on <a href="_blank">My Blog</a>
 
-      - 💬 Ask me about **[anything Javascript]()**
+     - 💬 Ask me about **<a href="_blank">anything Javascript</a>**
 
       - 📫 Reach out at **samuelmajuk@gmail.com**
    </td>
