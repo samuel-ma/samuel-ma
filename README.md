@@ -9,21 +9,21 @@ Create a table to make two columns
 <table border="0">
  <tr>
     <td>
-      <p> - 🔭 I’m currently working on **My Portfolio**<p/>
+      - 🔭 I’m currently working on **My Portfolio**
 
-      <p> - 🌱 Currently learning the **React Framework**<p/>
+      - 🌱 Currently learning the **React Framework**
 
-      <p> - 👯 I’m looking to collaborate on **anything Javascript**<p/>
+      - 👯 I’m looking to collaborate on **anything Javascript**
 
-      <p>- 🤝 I’m looking for help with resources on **Javascript** <p/>
+      - 🤝 I’m looking for help with resources on **Javascript**
 
-      <p> - 👨‍💻 All of my projects are available on my [Repositories](Projects)<p/>
+      - 👨‍💻 All of my projects are available on my [Repositories](Projects)
 
-      <p> - 📝 I regularly write articles on [My Blog]()<p/>
+      - 📝 I regularly write articles on [My Blog]()
 
-      <p> - 💬 Ask me about **[anything Javascript]()**<p/>
+      - 💬 Ask me about **[anything Javascript]()**
 
-      <p> - 📫 Reach out at **samuelmajuk@gmail.com** <p/>
+      - 📫 Reach out at **samuelmajuk@gmail.com**
    </td>
  </tr>
   
