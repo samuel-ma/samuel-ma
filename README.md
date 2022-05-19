@@ -6,23 +6,25 @@
 <table border="0">
  <tr>
     <td>
+     <br>
      <strong>HELLO WORLD!</strong>
+     <br>
      
-     - 🔭 I’m currently working on **My Portfolio**
+     - 🔭 I’m currently working on <strong>My Portfolio</strong>
 
-     - 🌱 Currently learning the **React Framework**
+     - 🌱 Currently learning the <strong>React Framework</strong>
 
-     - 👯 I’m looking to collaborate on **anything Javascript**
+     - 👯 I’m looking to collaborate on <strong>anything Javascript</strong>
 
-     - 🤝 I’m looking for help with resources on **Javascript**
+     - 🤝 I’m looking for help with resources on <strong>Javascript</strong>
 
      - 👨‍💻 All of my projects are available on my [Repositories](https://samuel-ma.github.io/Porfolio)
 
      - 📝 I regularly write articles on [My Blog](https://samuel-ma.github.io/Porfolio)
 
-     - 💬 Ask me about **[anything Javascript](https://samuel-ma.github.io/Porfolio)**
+     - 💬 Ask me about [anything Javascript](https://samuel-ma.github.io/Porfolio)
 
-     - 📫 Reach out at **samuelmajuk@gmail.com**
+     - 📫 Reach out at <strong>samuelmajuk@gmail.com</strong>
    </td>
   
    <td>
