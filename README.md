@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif" >
 <!-- <img align="right" width="400" src="" > -->
+<br>
+<br>
 
 - 🔭 I’m currently working on **My Portfolio**
 
