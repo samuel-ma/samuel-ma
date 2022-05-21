@@ -106,5 +106,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-ma&" alt="samuel-ma" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=samuel-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samuel-ma)  
+
+![Profile views](https://gpvc.arturio.dev/samuel-ma)  
+
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
