@@ -116,10 +116,6 @@
 
 
 
-
-
-
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-ma&show_icons=true&locale=en&layout=compact" alt="samuel-ma" />
 </p>
@@ -134,25 +130,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=samuel-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samuel-ma)  
