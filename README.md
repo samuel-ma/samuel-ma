@@ -152,10 +152,8 @@
 
 
 
-
-<p align="center">
  [![trophy](https://github-profile-trophy.vercel.app/?username=samuel-ma)](https://github.com/ryo-ma/github-profile-trophy)
- </p>
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samuel-ma)  
 
