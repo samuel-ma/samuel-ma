@@ -121,7 +121,7 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-ma&show_icons=true&locale=en&layout=compact" alt="samuel-ma" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-ma&show_icons=true&locale=en&layout=compact" alt="samuel-ma" />
 </p>
 
 <p>&nbsp;
