@@ -38,7 +38,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=samuel-ma&data=followers,repositories,stars,commits)](https://github.com/samuel-ma/github-widgetbox)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/samuel_majuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuel_majuk" height="30" width="40" /></a>
 <a href="https://www.behance.net/mabilmakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mabilmakur" height="30" width="40" /></a>
