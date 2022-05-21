@@ -38,7 +38,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=samuel-ma&data=followers,repositories,stars,commits)](https://github.com/samuel-ma/github-widgetbox)
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"><strong>Connect with me:</strong></h3>
 
 <p align="center">
 <a href="https://instagram.com/samuel_majuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuel_majuk" height="30" width="40" /></a>
@@ -49,7 +49,7 @@
 
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center"><strong>Languages and Tools:</strong></h3>
 
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
