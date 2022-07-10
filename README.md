@@ -112,17 +112,6 @@
 
 
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-ma&show_icons=true&locale=en&layout=compact" alt="samuel-ma" />
-</p>
-
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-ma&show_icons=true&locale=en" alt="samuel-ma" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-ma&" alt="samuel-ma" />
-</p>
 
 
 
