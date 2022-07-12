@@ -15,8 +15,6 @@
 
      - 👯 I’m looking to collaborate on anything Javascript
 
-     - 🤝 I’m looking for help with resources on Javascript
-
      - 👨‍💻 All of my projects are available on my Repositories
 
      - 📝 I regularly write articles on My Blog
@@ -24,6 +22,9 @@
      - 💬 Ask me about anything Javascript
 
      - 📫 Reach out at samuelmajuk@gmail.com
+     
+     - 🤙 You can also contact me +2011 2276 1343
+     
    </td>
   
    <td>
