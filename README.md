@@ -118,10 +118,6 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samuel-ma)  
 
-![Profile views](https://gpvc.arturio.dev/samuel-ma)  
-
-![](./profile-3d-contrib/profile-gitblock.svg)
 
 
