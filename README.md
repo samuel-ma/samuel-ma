@@ -1,5 +1,6 @@
 
-![github-header-image (2)](https://user-images.githubusercontent.com/82509653/179352868-a1ca485f-922f-46cc-a2b5-40c6904ac88e.png)
+
+![github-header-image (3)](https://user-images.githubusercontent.com/82509653/179353497-423233bd-3b52-4a53-a257-1a24c00a66ea.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
