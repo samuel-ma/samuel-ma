@@ -1,7 +1,8 @@
 
-![github-header-image](https://user-images.githubusercontent.com/82509653/179352597-5c903548-d3f4-4740-a693-583f8409bdb2.png)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+<div align="center">
+  ![github-header-image](https://user-images.githubusercontent.com/82509653/179352597-5c903548-d3f4-4740-a693-583f8409bdb2.png)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+</div>
 
 <h1 align="center">Hi 👋, I'm Samuel Majok</h1>
 <h3 align="center">A passionate frontend developer</h3>
