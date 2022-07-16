@@ -31,7 +31,6 @@
    </td>
   
    <td>
-      ![github-header-image](https://user-images.githubusercontent.com/82509653/179352349-2bfa483b-a71b-4ff2-9adf-286667bbfcb1.png)
       <img width="400" align="center" alt="gif" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
    </td>
  </tr>
@@ -39,6 +38,8 @@
 </table>
 
 <br>
+
+![github-header-image](https://user-images.githubusercontent.com/82509653/179352349-2bfa483b-a71b-4ff2-9adf-286667bbfcb1.png)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=samuel-ma&data=followers,repositories,stars,commits)](https://github.com/samuel-ma/github-widgetbox)
 
