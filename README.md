@@ -1,7 +1,7 @@
 
 ![github-header-image (2)](https://user-images.githubusercontent.com/82509653/179352868-a1ca485f-922f-46cc-a2b5-40c6904ac88e.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&align=true&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg?style=centerme)
 
 
 <h1 align="center">Hi 👋, I'm Samuel Majok</h1>
