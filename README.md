@@ -1,6 +1,5 @@
 
 
-![github-header-image](https://user-images.githubusercontent.com/82509653/179352349-2bfa483b-a71b-4ff2-9adf-286667bbfcb1.png)
 
 <h1 align="center">Hi 👋, I'm Samuel Majok</h1>
 <h3 align="center">A passionate frontend developer</h3>
@@ -32,6 +31,7 @@
    </td>
   
    <td>
+      ![github-header-image](https://user-images.githubusercontent.com/82509653/179352349-2bfa483b-a71b-4ff2-9adf-286667bbfcb1.png)
       <img width="400" align="center" alt="gif" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
    </td>
  </tr>
