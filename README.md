@@ -1,8 +1,7 @@
 
 
-<h1 align="center">
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
-</h1>
+
 <h1 align="center">Hi 👋, I'm Samuel Majok</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
