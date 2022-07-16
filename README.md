@@ -1,6 +1,5 @@
 
-
-![github-header-image (5)](https://user-images.githubusercontent.com/82509653/179353697-baf93a7a-a4fd-4967-aef4-9d57dd94a5ed.png)
+![github-header-image (6)](https://user-images.githubusercontent.com/82509653/179353737-85b33a35-9e01-4a6a-8ce3-2cd022ee5db7.png)
 
 <h1 align="center">Hi 👋, I'm Samuel Majok</h1>
 <h3 align="center">A passionate frontend developer</h3>
