@@ -27,7 +27,6 @@
 
      - 📫 Reach out at samuelmajuk@gmail.com
      
-     - 🤙 You can also contact me +2011 2276 1343
      
    </td>
   
