@@ -19,7 +19,7 @@
 
      - 👯 I’m looking to collaborate on anything Javascript
 
-     - 👨‍💻 All of my projects are available on my Repositories
+     - 👨‍💻 All of my projects are available in my Repositories
 
      - 📝 I regularly write articles on My Blog
 
