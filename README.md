@@ -24,8 +24,6 @@
      - 📝 I regularly write articles on My Blog
 
      - 💬 Ask me about anything Javascript
-
-     - 📫 Reach out at samuelmajuk@gmail.com
      
      
    </td>
