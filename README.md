@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/samuel-ma)  
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient=30:0000FF,70:a82da8&height=300&section=header&text=SoniQ%20&fontSize=90&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient=30:0000FF,7:a82da8&height=300&section=header&text=SoniQ%20&fontSize=90&descAlignY=40)
 
 <h1 align="center">Hi 👋, I'm Samuel Majok</h1>
 <h3 align="center">A passionate frontend developer</h3>
