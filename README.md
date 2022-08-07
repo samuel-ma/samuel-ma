@@ -39,7 +39,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=samuel-ma&data=followers,repositories,stars,commits)](https://github.com/samuel-ma/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=ts,css,markdown,python,json,cpp,c,html,java,xml,xml,mysql,sass,kotlin)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=ts,css,markdown,python,json,cpp,c,html,java,xml,js,mysql,sass,kotlin)](https://github.com/Jurredr/github-widgetbox)
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
