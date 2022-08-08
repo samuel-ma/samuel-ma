@@ -15,13 +15,13 @@
      
      - 🔭 I’m currently working on My Portfolio
 
-     - 🌱 I'm also currently learning the React Framework
+     - 🌱 I'm also currently learning Typescript
 
      - 👯 I’m looking to collaborate on anything Javascript
 
      - 👨‍💻 All of my projects are available in my Repositories
 
-     - 📝 I regularly write articles on My Blog
+     - 📝 Your welcome to challenge me on Algorithms using C++
 
      - 💬 Ask me about anything Javascript
      
