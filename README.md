@@ -1,14 +1,15 @@
 ![Profile views](https://gpvc.arturio.dev/samuel-ma) 
 
   
+<div align="center">
+    <div align="left"> 
+      [![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)]
+    </div
 
-<div align="left"> 
-  [![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)]
-</div
-
-<div align="right"> 
-  [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
-</div>
+    <div align="right"> 
+      [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
+    </div>
+  </div>
    
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1870d5,35:1aa7ec,100:4adede&height=300&width=100%&section=header&text=SoniQ%20&fontSize=90&descAlignY=40)
