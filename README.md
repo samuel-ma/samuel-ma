@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/samuel-ma) 
+<!-- ![Profile views](https://gpvc.arturio.dev/samuel-ma)  -->
 
 
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer) <div align="right"> 
