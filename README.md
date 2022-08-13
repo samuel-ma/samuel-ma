@@ -1,5 +1,19 @@
 ![Profile views](https://gpvc.arturio.dev/samuel-ma)  
 
+
+
+*.go \
+   --token paste-your-token-here \
+   --preset worldwide \
+   --amount 500 \
+   --consider 1000 \
+   --output csv \
+   --file ./output.csv
+   
+   
+   
+   
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1870d5,35:1aa7ec,100:4adede&height=300&section=header&text=SoniQ%20&fontSize=90&descAlignY=40)
 
 <h1 align="center">Hi 👋, I'm Samuel Majok</h1>
