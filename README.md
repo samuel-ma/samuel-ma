@@ -1,26 +1,4 @@
 ![Profile views](https://gpvc.arturio.dev/samuel-ma)  
-
-
-
-*.go \
-   --token paste-your-token-here \
-   --preset worldwide \
-   --amount 500 \
-   --consider 1000 \
-   --output csv \
-   --file ./output.csv
-   
-   
-   
-   githubUsers.sort(_.followers)
-           .filter(_.location == 'Egypt') 
-           .take(1000)
-           .sort(_.contributions)
-           .take(256)
-This list contains all public commits for e
-   
-   
-   
    
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1870d5,35:1aa7ec,100:4adede&height=300&section=header&text=SoniQ%20&fontSize=90&descAlignY=40)
