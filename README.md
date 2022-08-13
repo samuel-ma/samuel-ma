@@ -1,3 +1,11 @@
+go run *.go \
+   --token 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 \
+   --preset worldwide \
+   --amount 500 \
+   --consider 1000 \
+   --output csv \
+   --file ./output.csv
+
 
 ![Profile views](https://gpvc.arturio.dev/samuel-ma) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
    
