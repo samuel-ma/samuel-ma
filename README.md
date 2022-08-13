@@ -1,6 +1,12 @@
 ![Profile views](https://gpvc.arturio.dev/samuel-ma) 
 
-![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)  <div align="right"> 
+  
+
+<div align="left"> 
+  [![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)]
+</div
+
+<div align="right"> 
   [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
 </div>
    
