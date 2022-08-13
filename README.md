@@ -1,5 +1,3 @@
-![profile visit](https://komarev.com/ghpvc/?username=samuel-ma) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
-
 
 ![Profile views](https://gpvc.arturio.dev/samuel-ma) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
    
