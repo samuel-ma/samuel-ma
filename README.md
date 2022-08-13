@@ -1,4 +1,4 @@
-go run *.go \
+*.go \
    --token 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 \
    --preset worldwide \
    --amount 500 \
