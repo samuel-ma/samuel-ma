@@ -25,10 +25,7 @@
 
      - 📝 Your welcome to challenge me on Algorithms using C++
 
-     - 💬 Ask me about anything Javascript
-     
-     
-     
+     - 💬 Ask me about anything Javascript   
    </td>
   
    <td>
