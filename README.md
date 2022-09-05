@@ -39,6 +39,6 @@
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=ts,css,markdown,python,json,cpp,c,html,java,xml,js,mysql,sass,kotlin)
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:1870d5,35:1aa7ec,100:4adede&height=350&section=header&text=SoniQ%20&fontColor=000138&fontSize=90&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:1870d5,35:1aa7ec,100:4adede&height=350&section=header&text=Thank you...%20&fontColor=000138)
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
