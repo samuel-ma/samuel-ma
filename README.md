@@ -8,7 +8,6 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <br>
-
 <table border="0">
 
  <tr>
