@@ -1,4 +1,3 @@
-
 ![Profile views](https://gpvc.arturio.dev/samuel-ma) ![Most Active GitHub User Rank](https://en7wk5xej1s55cw.m.pipedream.net/)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1870d5,35:1aa7ec,100:4adede&height=350&section=header&text=SoniQ%20&fontColor=000138&animation=twinkling&fontSize=90&descAlignY=40)
