@@ -40,8 +40,8 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=buefy&count_private=true" alt="my github stats" width="420"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer" width="420" height="165">
+   <img src="https://github-readme-stats.vercel.app/api?username=samuel-ma&show_icons=true&theme=buefy&count_private=true" alt="my github stats" width="420"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-ma" width="420" height="165">
 </p>
 
 
