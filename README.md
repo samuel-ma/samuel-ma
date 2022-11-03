@@ -15,7 +15,7 @@
      
      - 🔭 I’m currently working on My Portfolio
 
-     - 🌱 I'm also currently learning Typescript
+     - 🌱 Huge advocate of open source
 
      - 👯 I’m looking to collaborate on anything Javascript
 
