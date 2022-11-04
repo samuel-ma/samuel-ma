@@ -23,7 +23,7 @@
 
      - 📝 Your welcome to challenge me on Algorithms using C++
 
-     - 💬 Ask me about anything Javascript  
+     - 💬 Reach out on my email at samuelmajuk@gmail.com
      
    <td>
       <img width="375" align="center" alt="gif" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
