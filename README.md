@@ -15,7 +15,7 @@
      
      - 🔭 I’m currently working on My Portfolio
 
-     - 🌱 Huge advocate of open source (In love with open source)
+     - 🌱 Huge advocate of open source
 
      - 👯 I’m looking to collaborate on anything Javascript
 
