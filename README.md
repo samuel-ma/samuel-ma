@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/samuel-ma) <img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank" align="right"> 
+![Profile views](https://gpvc.arturio.dev/samuel-ma) <img src="https://enzjb729uoc89sx.m.pipedream.net" alt="Most Active GitHub User Rank" align="left"> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1870d5,35:1aa7ec,100:4adede&height=350&section=header&text=SoniQ%20&fontColor=000138&animation=twinkling&fontSize=90&descAlignY=40)
 
