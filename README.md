@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Samuel Majok</h1>
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
 <br>
 <table border="0">
@@ -16,7 +16,7 @@
      <br>
      <strong>HELLO WORLD!</strong>
      
-     - 🔭 I’m currently working on My Portfolio
+     - 🔭 I’m currently working on the backend
 
      - 🌱 Huge advocate of open source
 
