@@ -1,5 +1,7 @@
 
-![Profile views](https://gpvc.arturio.dev/samuel-ma) [![committers.top badge](https://user-badge.committers.top/egypt/samuel-ma.svg)](https://user-badge.committers.top/egypt/samuel-ma)
+<!-- ![Profile views](https://gpvc.arturio.dev/samuel-ma)  -->
+
+[![committers.top badge](https://user-badge.committers.top/egypt/samuel-ma.svg)](https://user-badge.committers.top/egypt/samuel-ma)
 
 <!--
 ![Profile views](https://gpvc.arturio.dev/samuel-ma) [![badge](https://aktive.tk/egypt/samuel-ma)](https://commits.top/egypt.html)
