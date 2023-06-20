@@ -1,5 +1,5 @@
 
-![Profile views](https://gpvc.arturio.dev/samuel-ma)
+<!-- ![Profile views](https://gpvc.arturio.dev/samuel-ma) -->
 
 [![committers.top badge](https://user-badge.committers.top/egypt/samuel-ma.svg)](https://user-badge.committers.top/egypt/samuel-ma)
 
