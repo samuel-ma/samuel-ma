@@ -7,6 +7,8 @@
 
 <!--
 [![committers.top badge](https://user-badge.committers.top/egypt/samuel-ma.svg)](https://user-badge.committers.top/egypt/samuel-ma)
+
+     - 💬 Reach out
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1870d5,35:1aa7ec,100:4adede&height=450&section=header&text=SoniQ%20&fontColor=000138&animation=twinkling&fontSize=90&descAlignY=40)
@@ -31,8 +33,6 @@
      - 👨‍💻 All of my projects are available in my Repositories
 
      - 📝 Your welcome to challenge me on Algorithms using C++
-
-     - 💬 Reach out
      
    <td>
       <img width="375" align="center" alt="gif" src="https://i.pinimg.com/originals/7e/6c/9a/7e6c9aaa92780d1674141ed2e30faab3.gif">
