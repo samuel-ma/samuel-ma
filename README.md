@@ -25,7 +25,7 @@
      <br>
      <strong>HELLO WORLD!</strong>
      
-     - 🔭 I’m currently working on the backend
+     - 🔭 I’m currently exploring on the backend frameworks
 
      - 🌱 Huge advocate of open source
 
