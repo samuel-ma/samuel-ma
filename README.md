@@ -12,7 +12,7 @@
      - 💬 Reach out
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1870d5,35:1aa7ec,100:4adede&height=450&section=header&text=SamiiE%20&fontColor=000138&animation=twinkling&fontSize=90&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1870d5,35:1aa7ec,100:4adede&height=450&section=header&text=SoniQ%20&fontColor=000138&animation=twinkling&fontSize=90&descAlignY=40)
 
 <h1 align="center">Hi 👋, I'm Samuel Majok</h1>
 
